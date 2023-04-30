@@ -115,6 +115,8 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 def sus():
     data = request.get_json()
     city = data['input']
+    if city not in options:
+        return "Failed to find city", 400
     
     url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
 
@@ -125,7 +127,7 @@ def sus():
         "minrating": "4",
     }
     response = requests.get(url, params=params)
-    result = response.json()["results"][:2]
+    result = response.json()["results"][:3]
 
     return result
 
@@ -134,8 +136,46 @@ def sus():
 def cities():
     
     query = request.args.get('q')
-    results = [city for city in options if city.startswith(query)]
+    results = [city for city in options if city.lower().startswith(query.lower())]
+    
     return jsonify(results)
+
+@app.route('/api/cityphoto', methods=['POST'])
+@cross_origin()
+def cityphoto():
+    city_name = request.get_json()['data']
+    url = f"https://maps.googleapis.com/maps/api/place/textsearch/json?query={city_name}&key={API_KEY}"
+    response = requests.get(url)
+    data = response.json()
+    
+    photo_ref = data["results"][0]["photos"][0]["photo_reference"]
+    photo_url = f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference={photo_ref}&key={API_KEY}"
+    photo_response = requests.get(photo_url)
+    
+    filename = 'cityphotos/'+city_name+'.jpg'
+    with open(filename, 'wb') as f:
+        f.write(photo_response.content)
+    if response.ok:
+        return send_file(filename, mimetype='image/jpeg', as_attachment=True)
+    else:
+        return "Failed to fetch photo", 400
+
+
+@app.route('/api/link', methods=['POST'])
+@cross_origin()
+def link():
+    
+    data = request.get_json()
+    url = "https://maps.googleapis.com/maps/api/place/details/json"
+    place_id = data['data']
+    params = {
+        "key": API_KEY,
+        "place_id": place_id
+    }
+    response = requests.get(url, params=params)
+    place_url = response.json()['result']['url']
+    
+    return jsonify(place_url)
 
 @app.route('/api/photo', methods=['POST'])
 @cross_origin()
@@ -146,6 +186,7 @@ def photo():
     params = {
         "key": API_KEY,
         "maxwidth": 400,
+        "maxheight": 400,
         "photoreference": stuff,
     }
     response = requests.get(url, params=params)
