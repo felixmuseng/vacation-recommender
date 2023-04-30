@@ -53,6 +53,7 @@ function CardLink(props){
 }
 
 export default function Card(props){
+  if (!props.data) return null
   return(
     <div className="flex flex-col items-center bg-white border border-gray-200 rounded-xl shadow md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
       <CardImage data={(props.data)}/>
