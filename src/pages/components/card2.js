@@ -6,7 +6,7 @@ function CardImage(props){
 
   useEffect(() => {
     async function fetchPhoto(){
-      const response = await fetch('http://localhost:5000/api/cityphoto',
+      const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/cityphoto',
       {
         method: 'POST',
         headers: {
@@ -34,7 +34,7 @@ export default function Card2(props){
   
   useEffect(() => {
     async function getClosestCities(){
-      const response = await fetch('http://localhost:5000/api/closest',
+      const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/closest',
       {
         method: 'POST',
         headers: {

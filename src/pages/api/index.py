@@ -1,12 +1,11 @@
 
 from flask import Flask, request, jsonify, send_file
 from flask_cors import CORS, cross_origin
-import uuid
 import requests
 import pandas as pd
 
 app = Flask(__name__)
-API_KEY = open('API_KEY.txt').read()
+API_KEY = "AIzaSyCjgI5BoOAXO_LSzYprlQDMgzSeH4GicjI"
 options = [
     # Brunei
     "Bandar Seri Begawan","Kuala Belait","Seria","Tutong",
