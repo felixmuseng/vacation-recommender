@@ -7,7 +7,7 @@ export default function SearchBox({ onSubmit }){
   const handleChange = async (e) => {
     const query = e.target.value
     setInput(query);
-    const res = await fetch(`https://test-flask-vercel-ten.vercel.app/cities?q=${query}`);
+    const res = await fetch(`https://test-flask-vercel-ten.vercel.app/api/cities?q=${query}`);
     const data = await res.json();
     setCities(data);
   };
