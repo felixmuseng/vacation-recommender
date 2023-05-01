@@ -7,7 +7,14 @@ const supabase = createClient(supabaseUrl, supabaseKey)
 export async function handleFeedbackSubmit(feedbackData) {
   const { data, error } = await supabase
     .from('feedback')
-    .insert([{ feedback: feedbackData }])
+    .insert({
+      feedback: feedbackData.feedback,
+      rating: feedbackData.rating,
+      age: feedbackData.age,
+      gender: feedbackData.gender,
+      location: feedbackData.location,
+      contact_info: feedbackData.contactInfo
+    });
   if (error) {
     console.log(error)
   } else {

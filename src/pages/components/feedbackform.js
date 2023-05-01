@@ -3,9 +3,7 @@ import { useState } from 'react'
 
 export default function FeedbackForm() {
   const [feedback, setFeedback] = useState('')
-  const [generalFeedback, setGeneralFeedback] = useState('')
   const [rating, setRating] = useState('')
-  const [specificQuestionAnswer, setSpecificQuestionAnswer] = useState('')
   const [age, setAge] = useState('')
   const [gender, setGender] = useState('')
   const [location, setLocation] = useState('')
@@ -13,23 +11,19 @@ export default function FeedbackForm() {
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    // handle feedback submission
+   
     const feedbackData = {
       feedback,
-      generalFeedback,
       rating,
-      specificQuestionAnswer,
       age,
       gender,
       location,
       contactInfo,
     }
     handleFeedbackSubmit(feedbackData)
-    // reset form
+    
     setFeedback('')
-    setGeneralFeedback('')
     setRating('')
-    setSpecificQuestionAnswer('')
     setAge('')
     setGender('')
     setLocation('')
@@ -38,17 +32,12 @@ export default function FeedbackForm() {
 
   return (
     <form onSubmit={handleSubmit} className="flex flex-col mx-8">
-      <label htmlFor="feedback">Enter your feedback:</label>
+      <h1 className="mx-auto font-bold">Give us Your feedback</h1>
+      <label htmlFor="feedback">Feedback:</label>
       <textarea
         id="feedback"
         value={feedback}
         onChange={(event) => setFeedback(event.target.value)}
-      />
-      <label htmlFor="general-feedback">General feedback:</label>
-      <textarea
-        id="general-feedback"
-        value={generalFeedback}
-        onChange={(event) => setGeneralFeedback(event.target.value)}
       />
 
       <fieldset>
@@ -64,22 +53,10 @@ export default function FeedbackForm() {
         <input type="radio" id="rating5" name="rating" value="5" onChange={(event) => setRating(event.target.value)} />
         <label htmlFor="rating5">5</label>
       </fieldset>
-      {/* ishld remove this */}
-      <label htmlFor="specific-question-answer">
-        Answer to specific question:
-      </label>
 
-      <input
-        type="text"
-        id="specific-question-answer"
-        value={specificQuestionAnswer}
-        onChange={(event) =>
-          setSpecificQuestionAnswer(event.target.value)
-        }
-      />
       <label htmlFor="age">Age:</label>
       <input
-        type="text"
+        type="number"
         id="age"
         value={age}
         onChange={(event) => setAge(event.target.value)}
