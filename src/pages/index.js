@@ -11,14 +11,16 @@ function MyComponent() {
   const [loaded, setLoaded] = useState(false);
   const [city, setCity] = useState('');
 
-  const handleSubmit = async (input) => {
+  const handleSubmit = async (input, params) => {
     setCity(input)
     const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/sus', {
+    // const response = await fetch('http://localhost:5000/api/sus', {
+    
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
       },
-      body: JSON.stringify({ input })
+      body: JSON.stringify({ input, params })
     });
     
     const data = await response.json()
@@ -30,18 +32,21 @@ function MyComponent() {
       <div className="container mx-auto w-2/3 pt-24">
       <h1 className="my-10 mx-auto max-w-4xl font-display text-5xl text-align-center font-medium text-slate-900 sm:text-6xl">Vacation Made Simple for You</h1>
         <SearchBox onSubmit={handleSubmit}/>
+
       </div>
+      {/* <div>{JSON.stringify(responses)}</div> */}
       {loaded && (
         <div>
           <div className="flex pt-10">
             <div className="w-1/2">
+              
               <h1 className="text-center">Vacation spots in {city}</h1>
               {responses.map((response) => (
                 <Card key={response.id} data={response}/>
               ))}
             </div>
             
-            <Card2 data={city}/>
+            <Card2 data={city} onSubmit={handleSubmit}/>
           </div>
           <div className="w-1/2 my-10 py-6 mx-auto bg-blue-200 rounded-2xl">
             <FeedbackForm />

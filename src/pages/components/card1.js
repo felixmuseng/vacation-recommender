@@ -7,6 +7,7 @@ function CardImage(props){
   useEffect(() => {
     async function fetchPhoto(){
       const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/photo',
+      // const response = await fetch('http://localhost:5000/api/photo',
       {
         method: 'POST',
         headers: {
@@ -34,6 +35,7 @@ function CardLink(props){
   useEffect(() => {
     async function fetchLink(){
       const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/link',
+      // const response = await fetch('http://localhost:5000/api/link',
       {
         method: 'POST',
         headers: {

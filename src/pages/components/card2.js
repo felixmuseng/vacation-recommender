@@ -31,6 +31,9 @@ function CardImage(props){
 export default function Card2(props){
   const [cities, setCities] = useState([])
 
+  const handleCityClick = (city) => {
+    props.onSubmit(city, "");
+  }
   
   useEffect(() => {
     async function getClosestCities(){
@@ -55,7 +58,10 @@ export default function Card2(props){
       {cities.map((city) => (
         <div key={city.id} className="flex flex-col items-center bg-white border border-gray-200 rounded-xl shadow md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
           <CardImage data={(city)}/>
-          <h1 className="mx-5">{(city)}</h1>
+          <div className="mx-5">
+            <h1>{(city)}</h1>
+            <button onClick={() => handleCityClick(city)} className="cursor-pointer text-blue-500">Click Here</button>
+          </div>
         </div>
       ))}
     </div>
