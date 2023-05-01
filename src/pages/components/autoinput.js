@@ -35,7 +35,7 @@ export default function SearchBox({ onSubmit }){
     <form onSubmit={handleSubmit}>
       <div className="flex flex-col relative">
         <span>
-          <input type="text" value={input} onChange={handleCityChange} placeholder="Where are you going?" className="h-12 rounded border-gray-300 px-4 outline-none w-1/3"/>
+          <input type="text" value={input} onChange={handleCityChange} placeholder="Which city are you going to?" className="h-12 rounded border-gray-300 px-4 outline-none w-1/3"/>
           <input type="text" value={params} onChange={handleParamsChange} placeholder="Optional parameters(library,park)" className="h-12 rounded border-gray-300 px-4 outline-none w-1/3"/>
           <button type="submit" className="px-3 mx-5 h-12 bg-sky-500 rounded text-white">Submit</button>
         </span>
