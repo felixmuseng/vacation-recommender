@@ -16,8 +16,8 @@ function Modal(props) {
 
   useEffect(() => {
     async function getClosestCities(){
-      // const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/rec',
-      const response = await fetch('http://localhost:5000/api/rec',
+      const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/rec',
+      // const response = await fetch('http://localhost:5000/api/rec',
       {
         method: 'POST',
         headers: {

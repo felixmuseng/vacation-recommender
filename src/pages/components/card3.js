@@ -16,8 +16,8 @@ export default function Card3(props){
   
   useEffect(() => {
     async function getRandomCities(){
-      // const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/closest',
-      const response = await fetch('http://localhost:5000/api/random',
+      const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/random',
+      // const response = await fetch('http://localhost:5000/api/random',
       {
         method: 'POST',
         headers: {
