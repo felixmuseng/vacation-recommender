@@ -3,7 +3,7 @@ import Modal from './modal'
 import React, { useEffect, useState } from "react"
 import CardImage from './cardimage'
 
-export default function Card2(props){
+export default function Card3(props){
   const [cities, setCities] = useState([]);
 
   const handleCityClick = (city) => {
@@ -15,9 +15,9 @@ export default function Card2(props){
   }
   
   useEffect(() => {
-    async function getClosestCities(){
+    async function getRandomCities(){
       // const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/closest',
-      const response = await fetch('http://localhost:5000/api/closest',
+      const response = await fetch('http://localhost:5000/api/random',
       {
         method: 'POST',
         headers: {
@@ -28,13 +28,14 @@ export default function Card2(props){
       const data = await response.json()
       setCities(data)
     }
-    getClosestCities()
+    getRandomCities()
   }, [props])
 
 
   return(
     <div className="w-1/3">
-      <h1 className="text-center">Cities Near {props.data}</h1>
+      <h1 className="text-center">Random city to explore</h1>
+      {/* <h1>{JSON.stringify(cities)}</h1> */}
       {cities.map((city) => (
         <div key={city.id} className="flex flex-col items-center bg-white border border-gray-200 rounded-xl shadow md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
           <CardImage data={(city.city)}/>

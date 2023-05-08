@@ -50,7 +50,7 @@ function CardLink(props){
   }, [props]);
 
   return(
-    <a href={placeUrl} target="_blank" rel="noopener noreferrer" className="text-blue-500">Click here</a>
+    <a href={placeUrl} target="_blank" rel="noopener noreferrer" className="text-blue-500">Click here to open in maps</a>
   )
 }
 
@@ -59,7 +59,7 @@ export default function Card(props){
   return(
     <div className="flex flex-col items-center bg-white border border-gray-200 rounded-xl shadow md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
       <CardImage data={(props.data)}/>
-      <div className="mx-5">
+      <div className="mx-5 flex flex-col items-center xl:items-start">
         <h1>{(props.data.name)}</h1>
         <CardLink data={(props.data)}/>
       </div>
