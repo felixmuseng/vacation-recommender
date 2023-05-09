@@ -21,3 +21,29 @@ export async function handleFeedbackSubmit(feedbackData) {
     console.log(data)
   }
 }
+
+export async function addCity(citydata){
+  const { data, error } = await supabase
+    .from('city')
+    .insert({
+      name: citydata
+    });
+  if (error) {
+    console.log(error)
+  } else {
+    console.log(data)
+  }
+}
+
+export async function addSpots(spotdata){
+  const { data, error } = await supabase
+    .from('spots')
+    .insert({
+      name: spotdata
+    });
+  if (error) {
+    console.log(error)
+  } else {
+    console.log(data)
+  }
+}
