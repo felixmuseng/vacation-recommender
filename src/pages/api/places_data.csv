@@ -1,0 +1,677 @@
+Name,Rating,Types,City
+Tasek Lama Recreational Park,4.5,"park, tourist_attraction, point_of_interest, establishment",Bandar Seri Begawan
+Royal Regalia Museum,4.4,"museum, tourist_attraction, point_of_interest, establishment",Bandar Seri Begawan
+Istana Nurul Iman,4.5,"tourist_attraction, point_of_interest, establishment",Bandar Seri Begawan
+Bandar Seri Begawan Waterfront,4.3,"tourist_attraction, point_of_interest, establishment",Bandar Seri Begawan
+Kianggeh Market,4.1,"tourist_attraction, point_of_interest, establishment",Bandar Seri Begawan
+Omar Ali Saifuddien Mosque,4.7,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Bandar Seri Begawan
+Raja Isteri Pengiran Anak Hajah Saleha Bridge,4.7,"tourist_attraction, point_of_interest, establishment",Bandar Seri Begawan
+Church of Our Lady of Assumption Catholic Church,4.8,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",Bandar Seri Begawan
+Gadong Night Market,4.2,"tourist_attraction, point_of_interest, establishment",Bandar Seri Begawan
+Silver Jubilee Park,4.1,"park, tourist_attraction, point_of_interest, establishment",Kuala Belait
+Belait Museum,3.8,"museum, tourist_attraction, point_of_interest, establishment",Kuala Belait
+Masjid Mohammad Jamalul Alam,4.7,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Kuala Belait
+Istana Kota Manggalela,4,"point_of_interest, establishment",Kuala Belait
+Masjid Kampong Pandan,4.7,"mosque, place_of_worship, point_of_interest, establishment",Kuala Belait
+Kuala Belait Clock Tower,3,"tourist_attraction, point_of_interest, establishment",Kuala Belait
+Kuala Belait Waterfront,4.5,"park, point_of_interest, establishment",Kuala Belait
+Billionth Barrel Monument,4.1,"tourist_attraction, point_of_interest, establishment",Kuala Belait
+The Sugar Swing,4.8,"point_of_interest, establishment",Kuala Belait
+Billionth Barrel Monument,4.1,"tourist_attraction, point_of_interest, establishment",Seria
+Seria Energy Recreational Park,5,"park, point_of_interest, establishment",Seria
+Sungai Basong Recreational Park,3.7,"park, tourist_attraction, point_of_interest, establishment",Tutong
+Mercu Tanda Kenangan,4.7,"tourist_attraction, point_of_interest, establishment",Tutong
+Tumpuan Telisai Recreational Park,4.5,"park, point_of_interest, establishment",Tutong
+Tutong Skate Board Park,3,"point_of_interest, establishment",Tutong
+Tatangan Persiaran Sungai Tutong,0,"park, point_of_interest, establishment",Tutong
+Wasai Bedanu,3.3,"park, tourist_attraction, point_of_interest, establishment",Tutong
+Damuan Recreational Park,4.1,"park, tourist_attraction, point_of_interest, establishment",Tutong
+Petani Mall,4,"shopping_mall, point_of_interest, establishment",Tutong
+Times Cineplex,4.2,"movie_theater, point_of_interest, establishment",Tutong
+Royal Palace,4.3,"tourist_attraction, point_of_interest, establishment",Phnom Penh
+Tuol Sleng Genocide Museum,4.6,"museum, tourist_attraction, point_of_interest, establishment",Phnom Penh
+Independence Monument,4.5,"tourist_attraction, point_of_interest, establishment",Phnom Penh
+Choeung Ek Genocidal Center,4.6,"cemetery, museum, tourist_attraction, point_of_interest, establishment",Phnom Penh
+Wat Phnom Daun Penh,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Phnom Penh
+National Museum of Cambodia,4.1,"museum, tourist_attraction, point_of_interest, establishment",Phnom Penh
+Sisowath Riverside Park,4.4,"park, tourist_attraction, point_of_interest, establishment",Phnom Penh
+Wat Botum Park,4.4,"park, tourist_attraction, point_of_interest, establishment",Phnom Penh
+Statue of Sihanouk Norodom,4.6,"tourist_attraction, park, point_of_interest, establishment",Phnom Penh
+Russian Tuol Tompoung Market,4.1,"point_of_interest, establishment",Phnom Penh
+Angkor National Museum,4.3,"museum, tourist_attraction, point_of_interest, establishment",Siem Reap
+Ta Prohm Temple,4.8,"tourist_attraction, place_of_worship, point_of_interest, establishment",Siem Reap
+Preah Khan Temple,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Siem Reap
+Pre Rup,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Siem Reap
+Eastern Mebon,4.6,"hindu_temple, tourist_attraction, place_of_worship, point_of_interest, establishment",Siem Reap
+Bayon Temple,4.8,"tourist_attraction, hindu_temple, place_of_worship, point_of_interest, establishment",Siem Reap
+Angkor Wat,4.8,"tourist_attraction, hindu_temple, place_of_worship, point_of_interest, establishment",Siem Reap
+Artisans Angkor,4.3,"tourist_attraction, point_of_interest, establishment",Siem Reap
+Thommanon,4.6,"tourist_attraction, point_of_interest, establishment",Siem Reap
+Ek Phnom Pagoda,4.2,"hindu_temple, tourist_attraction, place_of_worship, point_of_interest, establishment",Battambang
+Wat Samrong Knong,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Battambang
+Damrey Sor Pagoda,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Battambang
+Battambang Crocodile Farm,3.9,"tourist_attraction, point_of_interest, establishment",Battambang
+Lok Ta Dambong Kra Nhoung Shrine,4.5,"place_of_worship, tourist_attraction, point_of_interest, establishment",Battambang
+Wat Kandal,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Battambang
+The Well of Shadows,4.2,"museum, tourist_attraction, point_of_interest, establishment",Battambang
+Wat Leu Pagoda,4.1,"tourist_attraction, place_of_worship, point_of_interest, establishment",Sihanoukville
+Phsar Leu Market,4.1,"tourist_attraction, point_of_interest, establishment",Sihanoukville
+Saracen Bay Beach,4.2,"tourist_attraction, point_of_interest, establishment",Sihanoukville
+Long Set Beach,4.7,"tourist_attraction, point_of_interest, establishment",Sihanoukville
+Beach Des Rogations,4.2,"tourist_attraction, point_of_interest, establishment",Sihanoukville
+Sandy Beach,4.8,"tourist_attraction, point_of_interest, establishment",Sihanoukville
+Kbal Chhay Waterfalls,4.1,"park, point_of_interest, establishment",Sihanoukville
+Pier 52,3.8,"tourist_attraction, travel_agency, point_of_interest, establishment",Sihanoukville
+Teuk Chhou Rapids,4,"tourist_attraction, point_of_interest, establishment",Kampot
+Durian Roundabout,4.3,"tourist_attraction, point_of_interest, establishment",Kampot
+Wat Traeuy Kaoh,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Kampot
+Veal Pouch Waterfall,4,"tourist_attraction, point_of_interest, establishment",Kampot
+Popokvil Waterfall,3.9,"tourist_attraction, point_of_interest, establishment",Kampot
+Kampot Night Market,4,"point_of_interest, establishment",Kampot
+Preah Monivong Bokor National Park,4.3,"tourist_attraction, park, point_of_interest, establishment",Kampot
+New Kampot Roundabout,4.1,"tourist_attraction, point_of_interest, establishment",Kampot
+Coconut Beach,3.6,"tourist_attraction, point_of_interest, establishment",Kampot
+Phnom Sambok Pagoda,4.2,"tourist_attraction, place_of_worship, point_of_interest, establishment",Kratie
+Kampi Mega Rapid,4.4,"tourist_attraction, point_of_interest, establishment",Kratie
+Mekong Dolphin Pleasance,4.3,"tourist_attraction, point_of_interest, establishment",Kratie
+Child Garden,4.4,"park, point_of_interest, establishment",Kratie
+Koh Samseb Community Based Ecotourism,4.4,"tourist_attraction, point_of_interest, establishment",Kratie
+Bothom Rangsei Pagoda,4.6,"place_of_worship, point_of_interest, establishment",Kratie
+Krong Kracheh Pagoda,4.1,"place_of_worship, point_of_interest, establishment",Kratie
+Nokor Bachey Pagoda,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Kratie
+Kep National Park,4.2,"tourist_attraction, park, point_of_interest, establishment",Kep
+Wat Samathi Pagoda,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Kep
+Krung Kep Blue Swimmer Crab Statue,4.2,"tourist_attraction, point_of_interest, establishment",Kep
+Kep City,4.4,"tourist_attraction, travel_agency, point_of_interest, establishment",Kep
+Pantai Kep,4,"tourist_attraction, point_of_interest, establishment",Kep
+Kep Butterfly Garden,4.7,"park, point_of_interest, establishment",Kep
+White Lady Statue,4.1,"tourist_attraction, point_of_interest, establishment",Kep
+Teuk Chhou Rapids,4,"tourist_attraction, point_of_interest, establishment",Kep
+Rabbit Island Port,4.3,"tourist_attraction, point_of_interest, establishment",Kep
+Tatai Waterfall,4.4,"tourist_attraction, point_of_interest, establishment",Koh Kong
+Beautiful Bays Statue,4.5,"tourist_attraction, point_of_interest, establishment",Koh Kong
+Peam Krasaop Wildlife Sanctuary,4.3,"tourist_attraction, zoo, park, point_of_interest, establishment",Koh Kong
+Khun Chhang Historical Stupa,4.3,"point_of_interest, establishment",Koh Kong
+Chiphat Village,4.3,"tourist_attraction, point_of_interest, establishment",Koh Kong
+Suropati Park,4.6,"tourist_attraction, park, point_of_interest, establishment",Jakarta
+Museum Nasional,4.6,"museum, tourist_attraction, point_of_interest, establishment",Jakarta
+Taman Mini Indonesia Indah,4.5,"museum, tourist_attraction, amusement_park, park, point_of_interest, establishment",Jakarta
+Museum Bank Indonesia,4.7,"museum, tourist_attraction, point_of_interest, establishment",Jakarta
+Wayang Museum,4.5,"museum, tourist_attraction, point_of_interest, establishment",Jakarta
+Atlantis Water Adventures Ancol,4.5,"tourist_attraction, amusement_park, point_of_interest, establishment",Jakarta
+National Monument,4.6,"tourist_attraction, point_of_interest, establishment",Jakarta
+Museum of Textile,4.5,"museum, tourist_attraction, point_of_interest, establishment",Jakarta
+Bungkul Park,4.6,"tourist_attraction, park, point_of_interest, establishment",Surabaya
+Surabaya Submarine Monument,4.5,"point_of_interest, establishment",Surabaya
+Sanggar Agung Temple,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Surabaya
+Muhammad Cheng Hoo Mosque,4.7,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Surabaya
+Monumen Perjuangan Polisi Republik Indonesia,4.5,"tourist_attraction, park, point_of_interest, establishment",Surabaya
+Bambu Runcing,4.7,"tourist_attraction, point_of_interest, establishment",Surabaya
+Apsari Park,4.6,"park, tourist_attraction, point_of_interest, establishment",Surabaya
+Monumen Patung Gubernur Suryo,4.4,"tourist_attraction, point_of_interest, establishment",Surabaya
+Suro and Boyo Statue,4.6,"tourist_attraction, point_of_interest, establishment",Surabaya
+Rabbit Town,4,"tourist_attraction, point_of_interest, establishment",Bandung
+Gedung Sate,4.7,"tourist_attraction, point_of_interest, establishment",Bandung
+Tebing Keraton,4.5,"tourist_attraction, park, point_of_interest, establishment",Bandung
+Taman Balai Kota Bandung,4.6,"tourist_attraction, park, point_of_interest, establishment",Bandung
+Monumen Bandung Lautan Api,4.3,"tourist_attraction, point_of_interest, establishment",Bandung
+Grand Mosque of Trans Studio,4.8,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Bandung
+Asia Africa Monument,4.6,"tourist_attraction, point_of_interest, establishment",Bandung
+Indonesia Menggugat Building,4.5,"tourist_attraction, museum, point_of_interest, establishment",Bandung
+Tjong A Fie Mansion,4.6,"tourist_attraction, museum, point_of_interest, establishment",Medan
+State Museum of North Sumatra,4.5,"museum, tourist_attraction, point_of_interest, establishment",Medan
+Sri Deli Park,4.4,"park, tourist_attraction, point_of_interest, establishment",Medan
+Mariamman Temple,4.6,"hindu_temple, tourist_attraction, place_of_worship, point_of_interest, establishment",Medan
+Penangkaran Buaya Asam Kumbang,4.2,"zoo, tourist_attraction, park, point_of_interest, establishment",Medan
+Maha Vihara Maitreya,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Medan
+Vihara Gunung Timur,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Medan
+Graha Bunda Maria Annai Velangkanni,4.8,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",Medan
+RivaPark,4.7,"park, point_of_interest, establishment",Medan
+Kota Lama Semarang,4.7,"tourist_attraction, point_of_interest, establishment",Semarang
+Lawang Sewu,4.6,"museum, tourist_attraction, point_of_interest, establishment",Semarang
+Semarang Chinatown,4.5,"tourist_attraction, point_of_interest, establishment",Semarang
+Waroeng Semawis,4.5,"tourist_attraction, point_of_interest, establishment",Semarang
+Museum Mandala Bhakti,4.7,"tourist_attraction, museum, point_of_interest, establishment",Semarang
+Wisata Sam Poo Kong,4.5,"place_of_worship, tourist_attraction, point_of_interest, establishment",Semarang
+Lumina Grand Maerakaca,4.6,"tourist_attraction, point_of_interest, establishment",Semarang
+Kampung Batik Gedong Semarang,4.4,"tourist_attraction, point_of_interest, establishment",Semarang
+Anjungan Kota Semarang,4.5,"museum, tourist_attraction, point_of_interest, establishment",Semarang
+Tabanas Park Semarang,4.4,"park, tourist_attraction, point_of_interest, establishment",Semarang
+The Palace of Yogyakarta,4.6,"tourist_attraction, point_of_interest, establishment",Yogyakarta
+Taman Sari,4.6,"tourist_attraction, point_of_interest, establishment",Yogyakarta
+Taman Pintar Yogyakarta,4.5,"tourist_attraction, museum, point_of_interest, establishment",Yogyakarta
+Vredeburg Museum,4.6,"tourist_attraction, museum, point_of_interest, establishment",Yogyakarta
+Bringin Kembar Yogyakarta,4.6,"tourist_attraction, point_of_interest, establishment",Yogyakarta
+Museum Kereta Karaton,4.7,"tourist_attraction, museum, point_of_interest, establishment",Yogyakarta
+Malioboro Yogyakarta,4.8,"tourist_attraction, shopping_mall, point_of_interest, establishment",Yogyakarta
+Gereja Sayidan,4.3,"tourist_attraction, point_of_interest, establishment",Yogyakarta
+Gedung Agung Yogyakarta,4.6,"tourist_attraction, point_of_interest, establishment",Yogyakarta
+Unit Galeri Museum Sonobudoyo,4.7,"tourist_attraction, museum, point_of_interest, establishment",Yogyakarta
+Fort Rotterdam Makassar,4.5,"museum, tourist_attraction, point_of_interest, establishment",Makassar
+Pulau Kodingareng Keke,4.7,"tourist_attraction, point_of_interest, establishment",Makassar
+Pantai Losari,4.6,"tourist_attraction, point_of_interest, establishment",Makassar
+La Galigo Museum,4.4,"museum, tourist_attraction, point_of_interest, establishment",Makassar
+Great Mosque of Makassar,4.8,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Makassar
+Bugis Waterpark Adventure,4.4,"amusement_park, tourist_attraction, point_of_interest, establishment",Makassar
+Vihara Girinaga,4.8,"tourist_attraction, place_of_worship, point_of_interest, establishment",Makassar
+Klenteng Ibu Agung Bahari,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Makassar
+Kuto Besak Fortress,4.5,"tourist_attraction, point_of_interest, establishment",Palembang
+Tugu Ikan Belido,4.5,"tourist_attraction, point_of_interest, establishment",Palembang
+Palembang Bird Park,4.3,"tourist_attraction, amusement_park, point_of_interest, establishment",Palembang
+Sultan Mahmud Badaruddin II Museum,4.5,"museum, tourist_attraction, point_of_interest, establishment",Palembang
+Sekanak Sidewalk,4.3,"tourist_attraction, point_of_interest, establishment",Palembang
+Amanzi Waterpark,4.4,"tourist_attraction, amusement_park, point_of_interest, establishment",Palembang
+Taman Kambang Iwak Besak,4.5,"park, point_of_interest, establishment",Palembang
+Masjid Lawang Kidul,4.8,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Palembang
+Benteng,5,"tourist_attraction, point_of_interest, establishment",Palembang
+Puri Agung Denpasar,4.6,"tourist_attraction, hindu_temple, place_of_worship, point_of_interest, establishment",Denpasar
+Bajra Sandhi Monument,4.6,"tourist_attraction, point_of_interest, establishment",Denpasar
+Big Garden Corner,4.3,"tourist_attraction, point_of_interest, establishment",Denpasar
+Agung Jagatnatha Temple,4.7,"hindu_temple, tourist_attraction, place_of_worship, point_of_interest, establishment",Denpasar
+Bali Museum,4.4,"museum, tourist_attraction, point_of_interest, establishment",Denpasar
+Interactive Art Museum Bali,4.6,"museum, tourist_attraction, point_of_interest, establishment",Denpasar
+Werdhi Budaya Art Centre,4.6,"tourist_attraction, point_of_interest, establishment",Denpasar
+Daerah tujuan wisata tukad bindu,4.5,"park, tourist_attraction, point_of_interest, establishment",Denpasar
+Hok Lay Kiong Temple,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Bekasi
+Danau Summarecon,4.7,"tourist_attraction, point_of_interest, establishment",Bekasi
+Monumen Kali Bekasi,4.2,"tourist_attraction, point_of_interest, establishment",Bekasi
+Taman Kota Bekasi,4.5,"park, tourist_attraction, point_of_interest, establishment",Bekasi
+Situ Rawa Gede Kota Bekasi,4.4,"tourist_attraction, travel_agency, point_of_interest, establishment",Bekasi
+Gedung Juang 45 Bekasi,4.6,"museum, tourist_attraction, point_of_interest, establishment",Bekasi
+Pura Agung Tirta Bhuana Bekasi,4.7,"hindu_temple, tourist_attraction, place_of_worship, point_of_interest, establishment",Bekasi
+Venetian Water Carnaval,4.2,"tourist_attraction, amusement_park, point_of_interest, establishment",Bekasi
+Taman Kemang Pratama,4.5,"park, tourist_attraction, point_of_interest, establishment",Bekasi
+Curug Parigi,3.8,"tourist_attraction, point_of_interest, establishment",Bekasi
+Scientia Square Park,4.5,"park, tourist_attraction, point_of_interest, establishment",Tangerang
+Cisadane Walk,4.6,"park, tourist_attraction, point_of_interest, establishment",Tangerang
+Taman Potret,4.5,"park, tourist_attraction, point_of_interest, establishment",Tangerang
+Tugu Adipura Kota Tangerang,4.5,"tourist_attraction, point_of_interest, establishment",Tangerang
+Broadway Alam Sutera,4.6,"tourist_attraction, shopping_mall, food, point_of_interest, establishment",Tangerang
+Benteng Heritage Museum,4.5,"museum, tourist_attraction, point_of_interest, establishment",Tangerang
+Boen Tek Bio Chinese Temple,4.8,"tourist_attraction, place_of_worship, point_of_interest, establishment",Tangerang
+Vihara Padumuttara,4.8,"tourist_attraction, place_of_worship, point_of_interest, establishment",Tangerang
+Vihara Boen San Bio,4.8,"tourist_attraction, place_of_worship, point_of_interest, establishment",Tangerang
+Kujang Monument,4.7,"tourist_attraction, point_of_interest, establishment",Bogor
+Bogor Botanical Gardens,4.7,"tourist_attraction, park, point_of_interest, establishment",Bogor
+Museum Tanah dan Pertanian,4.7,"museum, tourist_attraction, point_of_interest, establishment",Bogor
+The Jungle Water Adventure,4.5,"tourist_attraction, amusement_park, point_of_interest, establishment",Bogor
+Kuntum Farmfield,4.5,"tourist_attraction, park, point_of_interest, establishment",Bogor
+Parahyangan Agung Jagatkartta,4.8,"hindu_temple, tourist_attraction, place_of_worship, point_of_interest, establishment",Bogor
+Taman Safari Indonesia Bogor,4.7,"zoo, tourist_attraction, park, point_of_interest, establishment",Bogor
+Church of Zebaoth,4.8,"church, tourist_attraction, place_of_worship, point_of_interest, establishment",Bogor
+Ho Phrakeo Museum,4.3,"museum, tourist_attraction, place_of_worship, point_of_interest, establishment",Vientiane
+Wat Sisaket,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vientiane
+Wat Si Muang,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vientiane
+Chao Anouvong Park,4.1,"tourist_attraction, park, point_of_interest, establishment",Vientiane
+That Dam,3.9,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vientiane
+Pha That Luang Vientiane,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vientiane
+Wat Ong Teu,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vientiane
+COPE Visitor Centre,4.7,"museum, tourist_attraction, cafe, hospital, health, point_of_interest, food, establishment",Vientiane
+Wat That Khao,3.9,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vientiane
+Nam Phou Fountain,3.9,"tourist_attraction, park, point_of_interest, establishment",Vientiane
+Wat Xiengthong,4.5,"place_of_worship, tourist_attraction, point_of_interest, establishment",Luang Prabang
+Royal Palace,4.1,"tourist_attraction, museum, point_of_interest, establishment",Luang Prabang
+Phousi Hill,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Luang Prabang
+Haw Pha Bang,4.3,"place_of_worship, tourist_attraction, point_of_interest, establishment",Luang Prabang
+Wat May Souvannapoumaram,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Luang Prabang
+Wat Chom Si,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Luang Prabang
+Wat Manorom,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Luang Prabang
+Wat Nong Sikhounmuang,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Luang Prabang
+Khopfa Mekong Cruise,4.9,"tourist_attraction, point_of_interest, establishment",Luang Prabang
+Luang Prabang morning market,4.4,"tourist_attraction, point_of_interest, establishment",Luang Prabang
+Wat Luang,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Pakse
+Wat Phousalao,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Pakse
+Vat Phou,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Pakse
+Tad Koy Loy Far Waterfall,3.9,"tourist_attraction, point_of_interest, establishment",Pakse
+Tad Yuang Waterfall,4.6,"tourist_attraction, park, point_of_interest, establishment",Pakse
+Waterfall Houay Eneam,3.3,"tourist_attraction, point_of_interest, establishment",Pakse
+Savannakhet Museum,4,"museum, tourist_attraction, point_of_interest, establishment",Savannakhet
+Wat Sainyaphum,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Savannakhet
+Savannakhet Dinosaur Museum,3.5,"tourist_attraction, museum, point_of_interest, establishment",Savannakhet
+Nouhak Phoumsavanh Memorial Park,4.2,"tourist_attraction, park, point_of_interest, establishment",Savannakhet
+That Ing Hang,4.4,"place_of_worship, tourist_attraction, point_of_interest, establishment",Savannakhet
+The One Night Bazaar Savannakhet,3.8,"point_of_interest, establishment",Savannakhet
+Ho Kaeo Mukdahan,4.1,"tourist_attraction, point_of_interest, establishment",Savannakhet
+Wat That,4.2,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vang Vieng
+Wat Kang,4.1,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vang Vieng
+Jang Cave,4.2,"tourist_attraction, park, point_of_interest, establishment",Vang Vieng
+Kaeng Nyui Waterfall,4.1,"tourist_attraction, point_of_interest, establishment",Vang Vieng
+Tham Chang,4.1,"tourist_attraction, point_of_interest, establishment",Vang Vieng
+KLCC Park,4.6,"park, tourist_attraction, point_of_interest, establishment",Kuala Lumpur
+KL Bird Park,4.5,"tourist_attraction, zoo, park, point_of_interest, establishment",Kuala Lumpur
+Menara Kuala Lumpur,4.5,"tourist_attraction, park, point_of_interest, establishment",Kuala Lumpur
+Kuala Lumpur Butterfly Park,4.3,"park, tourist_attraction, point_of_interest, establishment",Kuala Lumpur
+Merdeka Square,4.5,"tourist_attraction, park, point_of_interest, establishment",Kuala Lumpur
+Kuala Lumpur City Gallery,4.3,"tourist_attraction, museum, point_of_interest, establishment",Kuala Lumpur
+Aquaria KLCC,4.4,"aquarium, tourist_attraction, point_of_interest, establishment",Kuala Lumpur
+Batu Caves,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Kuala Lumpur
+Sultan Abdul Samad Building,4.7,"tourist_attraction, point_of_interest, establishment",Kuala Lumpur
+Clan Jetties of Penang,4.3,"tourist_attraction, point_of_interest, establishment",George Town
+Georgetown UNESCO Historic Site,4.4,"tourist_attraction, point_of_interest, establishment",George Town
+Penang Street Art,4.4,"tourist_attraction, point_of_interest, establishment",George Town
+Penang Botanic Gardens,4.5,"tourist_attraction, park, point_of_interest, establishment",George Town
+Fort Cornwallis,3.5,"tourist_attraction, point_of_interest, establishment",George Town
+Penang Georgetown Oldest Tram Way,0,"tourist_attraction, point_of_interest, establishment",George Town
+Chew Jetty,4.1,"tourist_attraction, point_of_interest, establishment",George Town
+Pinang Peranakan Mansion,4.6,"museum, tourist_attraction, point_of_interest, establishment",George Town
+Sam Poh Tong Temple,4.2,"tourist_attraction, place_of_worship, point_of_interest, establishment",Ipoh
+Kek Look Tong,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Ipoh
+Birch Memorial Clock Tower,4.2,"tourist_attraction, point_of_interest, establishment",Ipoh
+Ling Sen Tong Temple,4.1,"tourist_attraction, place_of_worship, point_of_interest, establishment",Ipoh
+Gunung Lang Recreational Park,4.1,"park, tourist_attraction, point_of_interest, establishment",Ipoh
+D R Seenivasagam Recreational Park,4.3,"park, tourist_attraction, point_of_interest, establishment",Ipoh
+Ho Yan Hor Museum,4.5,"museum, tourist_attraction, point_of_interest, establishment",Ipoh
+Han Chin Pet Soo,4.5,"tourist_attraction, museum, point_of_interest, establishment",Ipoh
+Danga Bay Park,3.9,"amusement_park, tourist_attraction, park, point_of_interest, establishment",Johor Bahru
+Sultan Abu Bakar Mosque,4.7,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Johor Bahru
+Istana Bukit Serene,4.5,"tourist_attraction, point_of_interest, establishment",Johor Bahru
+Skyscape Johor Bahru,4.1,"tourist_attraction, point_of_interest, establishment",Johor Bahru
+Arulmigu Sri Rajakaliamman Glass Temple,4.2,"hindu_temple, tourist_attraction, place_of_worship, point_of_interest, establishment",Johor Bahru
+Johor Bahru Chinese Heritage Museum,4.3,"tourist_attraction, museum, point_of_interest, establishment",Johor Bahru
+Johor Ancient Temple,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Johor Bahru
+VOA Monument,4.1,"tourist_attraction, point_of_interest, establishment",Johor Bahru
+Mari Mari Cultural Village,4.6,"tourist_attraction, point_of_interest, establishment",Kota Kinabalu
+Pillars of Sabah,4.4,"tourist_attraction, art_gallery, point_of_interest, establishment",Kota Kinabalu
+Tanjung Aru Beach,4.3,"tourist_attraction, point_of_interest, establishment",Kota Kinabalu
+Tanjung Aru Perdana Park,4.4,"tourist_attraction, point_of_interest, establishment",Kota Kinabalu
+Masjid Bandaraya Kota Kinabalu,4.5,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Kota Kinabalu
+I Love KK,4.4,"tourist_attraction, point_of_interest, establishment",Kota Kinabalu
+Kokol Hill Elf,4.3,"tourist_attraction, point_of_interest, establishment",Kota Kinabalu
+Sabah State Museum,4.3,"tourist_attraction, museum, point_of_interest, establishment",Kota Kinabalu
+Merdeka Square,4.3,"tourist_attraction, park, point_of_interest, establishment",Kota Kinabalu
+The Old Court House Kuching,4.4,"tourist_attraction, point_of_interest, establishment",Kuching
+Kampung Budaya Sarawak,4.4,"museum, tourist_attraction, point_of_interest, establishment",Kuching
+Upside Down House Kuching,4.6,"tourist_attraction, point_of_interest, establishment",Kuching
+Tua Pek Kong Temple,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Kuching
+Sarawak Museum,4.2,"museum, tourist_attraction, point_of_interest, establishment",Kuching
+Kubah National Park,4.3,"tourist_attraction, park, point_of_interest, establishment",Kuching
+Matang Wildlife Centre,3.9,"tourist_attraction, zoo, park, point_of_interest, establishment",Kuching
+Bako National Park,4.8,"tourist_attraction, park, point_of_interest, establishment",Kuching
+Melaka Sultanate Palace Museum,4.5,"museum, tourist_attraction, point_of_interest, establishment",Melaka
+A Famosa,4.4,"tourist_attraction, point_of_interest, establishment",Melaka
+The Shore Sky Tower,4.3,"tourist_attraction, point_of_interest, establishment",Melaka
+Melaka River Cruise,4.5,"tourist_attraction, point_of_interest, establishment",Melaka
+Jonker Walk Melaka,4.4,"tourist_attraction, point_of_interest, establishment",Melaka
+Hang Jebat Mausoleum,4.1,"tourist_attraction, museum, point_of_interest, establishment",Melaka
+Hang Kasturi Mausoleum,4.5,"tourist_attraction, point_of_interest, establishment",Melaka
+Thai Buddhist Chetawan Temple,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Petaling Jaya
+Muzium Petaling Jaya,4.1,"museum, tourist_attraction, point_of_interest, establishment",Petaling Jaya
+Sunway Lagoon,4.5,"tourist_attraction, park, zoo, amusement_park, point_of_interest, establishment",Petaling Jaya
+Taman Aman Park,4.4,"park, tourist_attraction, point_of_interest, establishment",Petaling Jaya
+Central Park Bandar Utama,4.1,"park, tourist_attraction, point_of_interest, establishment",Petaling Jaya
+Taman Jaya Park,4.2,"park, tourist_attraction, point_of_interest, establishment",Petaling Jaya
+Taman Bandaran Kelana Jaya,4.1,"park, tourist_attraction, point_of_interest, establishment",Petaling Jaya
+PJ Street Art Lane,3.8,"tourist_attraction, point_of_interest, establishment",Petaling Jaya
+Wet World Water Park Shah Alam,4.1,"tourist_attraction, amusement_park, park, point_of_interest, establishment",Shah Alam
+Taman Botani Negara Shah Alam,4.1,"tourist_attraction, park, point_of_interest, establishment",Shah Alam
+Sultan Salahuddin Abdul Aziz Mosque,4.8,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Shah Alam
+Bukit Kayangan Palace,4.5,"tourist_attraction, point_of_interest, establishment",Shah Alam
+Laman Seni 7,3.9,"art_gallery, tourist_attraction, point_of_interest, establishment",Shah Alam
+Shah Alam Independence Square,4.4,"tourist_attraction, point_of_interest, establishment",Shah Alam
+Masjid Diraja Tengku Ampuan Jemaah,4.8,"mosque, tourist_attraction, place_of_worship, point_of_interest, establishment",Shah Alam
+Shah Alam Community Forest Trail head,4.4,"tourist_attraction, park, point_of_interest, establishment",Shah Alam
+Sunway Lagoon,4.5,"tourist_attraction, zoo, amusement_park, park, point_of_interest, establishment",Subang Jaya
+Subang Ria Recreational Park,4.1,"park, tourist_attraction, point_of_interest, establishment",Subang Jaya
+Sunway Wildlife Park,4.4,"tourist_attraction, point_of_interest, establishment",Subang Jaya
+Taman Rekreasi,4.3,"park, tourist_attraction, point_of_interest, establishment",Subang Jaya
+Nickelodeon Lost Lagoon at Sunway Lagoon,4.5,"tourist_attraction, amusement_park, point_of_interest, establishment",Subang Jaya
+Hexagon SS15 Subang Jaya,0,"park, point_of_interest, establishment",Subang Jaya
+USJ17 Park,0,"park, point_of_interest, establishment",Subang Jaya
+Dataran Mahkota,4.3,"tourist_attraction, point_of_interest, establishment",Iskandar Puteri
+Edible Park,4.3,"park, tourist_attraction, point_of_interest, establishment",Iskandar Puteri
+Sireh Park,4.4,"tourist_attraction, campground, park, lodging, point_of_interest, establishment",Iskandar Puteri
+Kota Iskandar Visitor Information Centre,4.2,"tourist_attraction, point_of_interest, establishment",Iskandar Puteri
+Dataran Iskandar Puteri,4.7,"tourist_attraction, point_of_interest, establishment",Iskandar Puteri
+Puteri Harbour Fountain,4.6,"tourist_attraction, point_of_interest, establishment",Iskandar Puteri
+LEGOLAND Malaysia,4.4,"tourist_attraction, amusement_park, point_of_interest, establishment",Iskandar Puteri
+Eco Tourism Kampung Sungai Melayu,4.3,"tourist_attraction, point_of_interest, establishment",Iskandar Puteri
+Puteri Harbour,4.3,"florist, store, point_of_interest, establishment",Iskandar Puteri
+Waterpark LEGOLAND Malaysia Resort,4.4,"tourist_attraction, amusement_park, point_of_interest, establishment",Iskandar Puteri
+Shwedagon Pagoda,4.8,"tourist_attraction, place_of_worship, point_of_interest, establishment",Yangon
+Chaukhtatgyi Buddha Temple,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Yangon
+Sule Pagoda,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Yangon
+National Museum of Myanmar,4.2,"tourist_attraction, museum, point_of_interest, establishment",Yangon
+Swe Taw Myat Pagoda,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Yangon
+Thiri Mingala Kabar Aye Pagoda,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Yangon
+Maha Satkya Atulamanaung Ngarhtatgyi,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Yangon
+Botahtaung Pagoda,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Yangon
+Sandamuni Pagoda,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Mandalay
+Aung Htate Tan,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Mandalay
+Kuthodaw Pagoda,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Mandalay
+Su Taung Pyae Pagoda,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Mandalay
+Shwenandaw Buddhist Temple,4.5,"place_of_worship, point_of_interest, establishment",Mandalay
+Shweinbin Monastery,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Mandalay
+Ein Daw Yar Pagoda,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Mandalay
+Bagaya Monastery,4.2,"tourist_attraction, point_of_interest, establishment",Mandalay
+Nanmyint Watchtower,4.1,"tourist_attraction, point_of_interest, establishment",Mandalay
+Mandalay Palace,4.2,"point_of_interest, establishment",Mandalay
+Naypyitaw Water Fountain Park,3.9,"park, tourist_attraction, point_of_interest, establishment",Naypyidaw
+National Herbal Park,4,"park, tourist_attraction, point_of_interest, establishment",Naypyidaw
+Uppatasanti Pagoda,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Naypyidaw
+Gems Museum,4.1,"museum, tourist_attraction, point_of_interest, establishment",Naypyidaw
+Thapyaygone Market,3.8,"point_of_interest, establishment",Naypyidaw
+National Landmark Garden,3.9,"park, point_of_interest, establishment",Naypyidaw
+Nay Pyi Taw Mausoleum,0,"park, point_of_interest, establishment",Naypyidaw
+Paung Laung Dam,4.1,"tourist_attraction, point_of_interest, establishment",Naypyidaw
+Junction Nay Pyi Taw,4.1,"shopping_mall, point_of_interest, establishment",Naypyidaw
+Hinthagon Pagoda,4.2,"tourist_attraction, place_of_worship, point_of_interest, establishment",Bago
+Kyaik Pun Pagoda,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Bago
+Shwemawdaw Pagoda,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Bago
+Shwethalyaung Buddhist Temple,4.4,"place_of_worship, point_of_interest, establishment",Bago
+Snake pagoda,3.9,"tourist_attraction, place_of_worship, point_of_interest, establishment",Bago
+Kanbawzathadi Golden Palace,4.1,"point_of_interest, establishment",Bago
+Bago,0,"park, point_of_interest, establishment",Bago
+Four Buddha Image,4.4,"place_of_worship, point_of_interest, establishment",Bago
+Chaukhtatgyi Buddha Temple,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Bago
+North Monastery,0,"place_of_worship, point_of_interest, establishment",Bago
+Kyaik Tha Lan Pagoda,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Mawlamyine
+beautiful hallway,0,"tourist_attraction, point_of_interest, establishment",Mawlamyine
+Mon Cultural Museum,3.9,"museum, tourist_attraction, point_of_interest, establishment",Mawlamyine
+Zin Kyaik Waterfall,4,"tourist_attraction, park, point_of_interest, establishment",Mawlamyine
+new place,0,"park, point_of_interest, establishment",Taunggyi
+Bo Gyoke Aung San Park,3.9,"park, point_of_interest, establishment",Taunggyi
+Shwe Yaunghwe Kyaung,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Taunggyi
+MR Thein,0,"park, point_of_interest, establishment",Taunggyi
+Welcome to Mon Ywar,0,"tourist_attraction, point_of_interest, establishment",Monywa
+Kan Thar Yar,0,"tourist_attraction, point_of_interest, establishment",Monywa
+Daung Monastery,4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Monywa
+Thanboddhay Pagoda,4.5,"place_of_worship, point_of_interest, establishment",Monywa
+Kyauk Myat Mountain and Pagoda,0,"park, point_of_interest, establishment",Monywa
+Shwezegon Pagoda,4.4,"place_of_worship, point_of_interest, establishment",Monywa
+SayTiYaRaMa,0,"place_of_worship, point_of_interest, establishment",Monywa
+Khine Zaw Htun,0,"tourist_attraction, point_of_interest, establishment",Myitkyina
+Kachin National Manau Park,4.2,"park, point_of_interest, establishment",Myitkyina
+Sunset view,5,"tourist_attraction, point_of_interest, establishment",Myitkyina
+Kachin State Cultural Museum,4,"museum, point_of_interest, establishment",Myitkyina
+Gaming,0,"park, point_of_interest, establishment",Myitkyina
+ABSOLUTE AIR CON OFFICE,0,"place_of_worship, point_of_interest, establishment",Myitkyina
+Myoti Pagoda,3.3,"place_of_worship, point_of_interest, establishment",Myitkyina
+Fort Santiago,4.5,"tourist_attraction, point_of_interest, establishment",Manila
+Rizal Park,4.5,"park, tourist_attraction, point_of_interest, establishment",Manila
+Manila Ocean Park,4.2,"tourist_attraction, amusement_park, park, point_of_interest, establishment",Manila
+National Museum of Fine Arts,4.7,"tourist_attraction, museum, point_of_interest, establishment",Manila
+Plaza Roma,4.7,"park, tourist_attraction, point_of_interest, establishment",Manila
+Baluarte de San Diego,4.5,"tourist_attraction, point_of_interest, establishment",Manila
+Manila Baywalk Dolomite Beach,4.2,"tourist_attraction, point_of_interest, establishment",Manila
+Casa Manila,4.6,"museum, tourist_attraction, point_of_interest, establishment",Manila
+Paco Park,4.4,"park, tourist_attraction, point_of_interest, establishment",Manila
+National Museum of Natural History,4.7,"tourist_attraction, museum, point_of_interest, establishment",Manila
+Quezon Memorial Circle,4.4,"tourist_attraction, park, point_of_interest, establishment",Quezon City
+Ninoy Aquino Parks and Wildlife Center,4.3,"park, tourist_attraction, point_of_interest, establishment",Quezon City
+Quezon Memorial Shrine,4.6,"tourist_attraction, point_of_interest, establishment",Quezon City
+UP Sunken Garden,4.7,"park, tourist_attraction, point_of_interest, establishment",Quezon City
+Art In Island,4.5,"art_gallery, tourist_attraction, point_of_interest, establishment",Quezon City
+La Mesa Watershed,4.4,"tourist_attraction, park, point_of_interest, establishment",Quezon City
+Quezon Heritage House,4.5,"tourist_attraction, museum, point_of_interest, establishment",Quezon City
+Peace Bell,3.9,"tourist_attraction, point_of_interest, establishment",Quezon City
+Circle of Fun,4.5,"amusement_park, tourist_attraction, point_of_interest, establishment",Quezon City
+La Mesa Ecopark,4.3,"park, point_of_interest, establishment",Quezon City
+Ayala Museum,4.5,"museum, tourist_attraction, point_of_interest, establishment",Makati
+Washington Sycip Park,4.6,"tourist_attraction, park, point_of_interest, establishment",Makati
+Legazpi Active Park,4.6,"park, tourist_attraction, point_of_interest, establishment",Makati
+Ayala Triangle Gardens,4.5,"park, tourist_attraction, point_of_interest, establishment",Makati
+Makati Museum,4.2,"museum, tourist_attraction, point_of_interest, establishment",Makati
+Yuchengco Museum,4.3,"museum, tourist_attraction, point_of_interest, establishment",Makati
+Salcedo Weekend Market,4.4,"tourist_attraction, point_of_interest, establishment",Makati
+Greenbelt Park,4.5,"park, point_of_interest, establishment",Makati
+Temple of Leah,4.1,"tourist_attraction, point_of_interest, establishment",Cebu City
+Fort San Pedro,4.2,"museum, tourist_attraction, point_of_interest, establishment",Cebu City
+Heritage of Cebu Monument,4.4,"tourist_attraction, park, point_of_interest, establishment",Cebu City
+Casa Gorordo Museum,4.6,"museum, tourist_attraction, point_of_interest, establishment",Cebu City
+Tops Lookout,4.4,"tourist_attraction, point_of_interest, establishment",Cebu City
+Jesuit House Museum,4.5,"museum, tourist_attraction, point_of_interest, establishment",Cebu City
+Sirao Garden,4.4,"tourist_attraction, point_of_interest, establishment",Cebu City
+Budlaan Falls,4.3,"tourist_attraction, point_of_interest, establishment",Cebu City
+Ramon Magsaysay Park,4.1,"park, tourist_attraction, point_of_interest, establishment",Davao City
+Philippine Eagle Center,4.4,"tourist_attraction, point_of_interest, establishment",Davao City
+Tamayong Prayer Mountain,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Davao City
+Nelly Garden Mansion,4.3,"tourist_attraction, point_of_interest, establishment",Iloilo City
+Molo Mansion,4.4,"tourist_attraction, point_of_interest, establishment",Iloilo City
+Museo Iloilo,4.2,"museum, tourist_attraction, point_of_interest, establishment",Iloilo City
+Sinamay House,4.3,"tourist_attraction, point_of_interest, establishment",Iloilo City
+Molo Church,4.6,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",Iloilo City
+Casa Real,4.3,"tourist_attraction, point_of_interest, establishment",Iloilo City
+Plaza Libertad,4.4,"park, tourist_attraction, point_of_interest, establishment",Iloilo City
+Baguio Botanical Garden,4.4,"tourist_attraction, park, point_of_interest, establishment",Baguio
+Wright Park,4.3,"park, tourist_attraction, point_of_interest, establishment",Baguio
+Mines View Observation Deck,4.3,"tourist_attraction, point_of_interest, establishment",Baguio
+Baguio Museum,4.2,"museum, tourist_attraction, point_of_interest, establishment",Baguio
+Colors of Stobosa,3.9,"tourist_attraction, point_of_interest, establishment",Baguio
+Our Lady of Lourdes Grotto,4.5,"place_of_worship, tourist_attraction, point_of_interest, establishment",Baguio
+Laperal White House,4.2,"tourist_attraction, museum, point_of_interest, establishment",Baguio
+Heritage Hill and Nature Park Garden,4.4,"tourist_attraction, point_of_interest, establishment",Baguio
+Burnham Park,4.4,"tourist_attraction, park, point_of_interest, establishment",Baguio
+Bayanihan Park,4.2,"tourist_attraction, point_of_interest, establishment",Angeles City
+Astro Park,4.3,"park, tourist_attraction, point_of_interest, establishment",Angeles City
+Walking Street Angeles City,4,"tourist_attraction, point_of_interest, establishment",Angeles City
+Zoocobia Fun Zoo,3.7,"zoo, tourist_attraction, museum, point_of_interest, establishment",Angeles City
+Dinosaurs Island,4.3,"tourist_attraction, amusement_park, park, point_of_interest, establishment",Angeles City
+Air Force City Park,4.3,"park, point_of_interest, establishment",Angeles City
+Center for Kapampangan Studies,4.5,"tourist_attraction, museum, point_of_interest, establishment",Angeles City
+Stotsenburg Park,4.6,"park, tourist_attraction, point_of_interest, establishment",Angeles City
+The Negros Museum,4.3,"museum, tourist_attraction, point_of_interest, establishment",Bacolod
+Capitol Park and Lagoon,4.4,"park, point_of_interest, establishment",Bacolod
+San Sebastian Cathedral,4.6,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",Bacolod
+The Ruins,4.5,"tourist_attraction, cafe, park, restaurant, store, food, point_of_interest, establishment",Bacolod
+Bacolod Public Plaza,4,"park, tourist_attraction, point_of_interest, establishment",Bacolod
+Bacolod Baywalk Recreational Park,3.7,"tourist_attraction, point_of_interest, establishment",Bacolod
+Negros Occidental Provincial Capitol,4.7,"local_government_office, tourist_attraction, point_of_interest, establishment",Bacolod
+Robinsons Bacolod Central Citywalk Fountain Area,4.2,"park, point_of_interest, establishment",Bacolod
+Laguerta Vintage Glasses Museum,4.2,"tourist_attraction, museum, point_of_interest, establishment",Bacolod
+Gaston Park,4.3,"park, tourist_attraction, point_of_interest, establishment",Cagayan de Oro
+Museum of Three Cultures,4.7,"museum, tourist_attraction, point_of_interest, establishment",Cagayan de Oro
+Vicente de Lara Park,4,"park, tourist_attraction, point_of_interest, establishment",Cagayan de Oro
+City Museum of Cagayan de Oro and Heritage Studies Center,4.1,"museum, tourist_attraction, point_of_interest, establishment",Cagayan de Oro
+Golden Friendship Park,4.1,"park, tourist_attraction, point_of_interest, establishment",Cagayan de Oro
+Seven Seas Waterpark and Resort,4.5,"tourist_attraction, amusement_park, point_of_interest, establishment",Cagayan de Oro
+Mapawa Nature Park,4.3,"tourist_attraction, park, point_of_interest, establishment",Cagayan de Oro
+Tagaytay Picnic Grove,4.3,"park, tourist_attraction, point_of_interest, establishment",Tagaytay
+Museo Orlina,4.5,"museum, tourist_attraction, point_of_interest, establishment",Tagaytay
+Sky Ranch Tagaytay,4.3,"amusement_park, tourist_attraction, point_of_interest, establishment",Tagaytay
+Puzzle Mansion,4.3,"museum, tourist_attraction, point_of_interest, establishment",Tagaytay
+Our Lady of Manaoag,4.6,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",Tagaytay
+Sky Eye,4,"tourist_attraction, point_of_interest, establishment",Tagaytay
+Paradizoo Theme Park,4,"park, tourist_attraction, point_of_interest, establishment",Tagaytay
+Sky Fun Amusement Park at Sky Ranch,4.2,"amusement_park, tourist_attraction, point_of_interest, establishment",Tagaytay
+Blood Pact Shrine,3.9,"tourist_attraction, point_of_interest, establishment",Tagbilaran
+Plaza Rizal,4.3,"park, tourist_attraction, point_of_interest, establishment",Tagbilaran
+Articuno Wall Art,0,"tourist_attraction, point_of_interest, establishment",Tagbilaran
+Victoria Memorial Park,4.5,"park, point_of_interest, establishment",Tagbilaran
+Serenity Park Tagbilaran,4.2,"park, cemetery, point_of_interest, establishment",Tagbilaran
+Singapore Flyer,4.6,"tourist_attraction, point_of_interest, establishment",Singapore
+Merlion,4.6,"tourist_attraction, park, point_of_interest, establishment",Singapore
+Fort Canning Park,4.5,"park, tourist_attraction, point_of_interest, establishment",Singapore
+Singapore Zoo,4.6,"zoo, tourist_attraction, point_of_interest, establishment",Singapore
+Gardens by the Bay,4.7,"tourist_attraction, park, point_of_interest, establishment",Singapore
+Clarke Quay,4.5,"shopping_mall, tourist_attraction, point_of_interest, establishment",Singapore
+Night Safari,4.3,"tourist_attraction, zoo, park, point_of_interest, establishment",Singapore
+Universal Studios Singapore,4.6,"tourist_attraction, amusement_park, point_of_interest, establishment",Singapore
+SkyPark Observation Deck,4.6,"tourist_attraction, point_of_interest, establishment",Singapore
+Singapore Botanic Gardens,4.7,"tourist_attraction, park, point_of_interest, establishment",Singapore
+The Grand Palace,4.5,"tourist_attraction, park, point_of_interest, establishment",Bangkok
+The Temple of the Emerald Buddha,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Bangkok
+The Giant Swing,4.6,"tourist_attraction, point_of_interest, establishment",Bangkok
+China Town,4.5,"tourist_attraction, point_of_interest, establishment",Bangkok
+Phra Sumen Fort,4.4,"tourist_attraction, point_of_interest, establishment",Bangkok
+Bangkokian Museum,4.6,"museum, tourist_attraction, point_of_interest, establishment",Bangkok
+SEA LIFE Bangkok Ocean World,4.5,"aquarium, tourist_attraction, point_of_interest, establishment",Bangkok
+Bangkok Butterfly Garden and Insectarium,4.1,"museum, tourist_attraction, park, point_of_interest, establishment",Bangkok
+Safari World,4.5,"zoo, tourist_attraction, point_of_interest, establishment",Bangkok
+Wat Chedi Luang,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Chiang Mai
+Wat Phra Singh Woramahawihan,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Chiang Mai
+Three Kings Monument,4.3,"tourist_attraction, point_of_interest, establishment",Chiang Mai
+Wat Umong Suan Phutthatham,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Chiang Mai
+Wat Phra That Doi Kham,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Chiang Mai
+Wat Phantao,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Chiang Mai
+Suan Dok Gate,4.3,"tourist_attraction, point_of_interest, establishment",Chiang Mai
+Chiang Mai Night Bazaar,4.2,"tourist_attraction, point_of_interest, establishment",Chiang Mai
+Wat Lok Moli,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Chiang Mai
+Wua Lai Walking Street,4.4,"tourist_attraction, point_of_interest, establishment",Chiang Mai
+Teddy Bear Museum,4,"tourist_attraction, museum, point_of_interest, establishment",Pattaya
+Art In Paradise Pattaya,4.4,"art_gallery, tourist_attraction, point_of_interest, establishment",Pattaya
+Sanctuary of Truth Museum,4.6,"tourist_attraction, point_of_interest, establishment",Pattaya
+HarborLand Pattaya,4.1,"tourist_attraction, amusement_park, shopping_mall, restaurant, food, point_of_interest, establishment",Pattaya
+Nong Nooch Botanical Garden,4.5,"tourist_attraction, park, point_of_interest, establishment",Pattaya
+Underwater World Pattaya,4.1,"aquarium, tourist_attraction, point_of_interest, establishment",Pattaya
+Pattaya Sheep Farm,4.3,"tourist_attraction, zoo, point_of_interest, establishment",Pattaya
+Pattaya Night Bazaar,4.1,"tourist_attraction, point_of_interest, establishment",Pattaya
+Khao Rang,4.5,"tourist_attraction, park, point_of_interest, establishment",Phuket
+Phuket Thai Hua Museum,4.1,"museum, tourist_attraction, point_of_interest, establishment",Phuket
+Jui Tui Shrine,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Phuket
+Phuket Old Town,4.6,"tourist_attraction, point_of_interest, establishment",Phuket
+Flying Hanuman,4.7,"tourist_attraction, point_of_interest, establishment",Phuket
+Hanuman World,4.7,"tourist_attraction, point_of_interest, establishment",Phuket
+Kio Thian Keng Saphan Hin Shrine,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Phuket
+Monkey Hill Viewpoint,4.5,"tourist_attraction, point_of_interest, establishment",Phuket
+Khao Khanab Nam,4.4,"tourist_attraction, point_of_interest, establishment",Krabi
+Krabi Urban Forest,4.5,"tourist_attraction, point_of_interest, establishment",Krabi
+Krabi Walking Street,4.2,"tourist_attraction, point_of_interest, establishment",Krabi
+The Mud Crabs Sculpture,4.4,"tourist_attraction, point_of_interest, establishment",Krabi
+Thara Park,4.4,"park, tourist_attraction, point_of_interest, establishment",Krabi
+Andaman Cultural Study Center,4.3,"museum, tourist_attraction, point_of_interest, establishment",Krabi
+art in the city Krabi,3,"tourist_attraction, point_of_interest, establishment",Krabi
+Clock Tower Chiang Rai,4.4,"tourist_attraction, point_of_interest, establishment",Chiang Rai
+Walking Street Chiang Rai,4.4,"tourist_attraction, point_of_interest, establishment",Chiang Rai
+Wat Phra That Doi Chom Thong,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Chiang Rai
+Wat Phra Kaew,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Chiang Rai
+Singha Park Chiang Rai,4.4,"tourist_attraction, park, point_of_interest, establishment",Chiang Rai
+King Mangrai Monument,4.6,"park, point_of_interest, establishment",Chiang Rai
+75 Anniversary Flag and Lamp Park,4.4,"park, tourist_attraction, point_of_interest, establishment",Chiang Rai
+Wat Phra Sing,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Chiang Rai
+Hua Hin Night Market,4.2,"tourist_attraction, point_of_interest, establishment",Hua Hin
+Cicada Market,4.3,"tourist_attraction, point_of_interest, establishment",Hua Hin
+Hua Hin Tourist Attractions Avitip,4.5,"tourist_attraction, point_of_interest, establishment",Hua Hin
+Vana Nava Water Jungle,4.4,"tourist_attraction, amusement_park, point_of_interest, establishment",Hua Hin
+Raruk Hua Hin,3.8,"tourist_attraction, point_of_interest, establishment",Hua Hin
+Black Mountain Water Park,4.4,"tourist_attraction, amusement_park, point_of_interest, establishment",Hua Hin
+Sam Phan Nam Floating Market,3.4,"tourist_attraction, point_of_interest, establishment",Hua Hin
+The Venezia,3.4,"tourist_attraction, restaurant, food, point_of_interest, establishment",Hua Hin
+Phon King Phet Park,4.2,"park, tourist_attraction, point_of_interest, establishment",Hua Hin
+Wat Kao Itisukato,4.4,"place_of_worship, tourist_attraction, point_of_interest, establishment",Hua Hin
+Wat Maha That,4.6,"tourist_attraction, point_of_interest, establishment",Ayutthaya
+Wat Phra Si Sanphet,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Ayutthaya
+Chao Sam Phraya National Museum,4.5,"tourist_attraction, museum, point_of_interest, establishment",Ayutthaya
+Wat Ratchaburana,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Ayutthaya
+Wat Thammikarat,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Ayutthaya
+Wat Phu Khao Thong,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Ayutthaya
+Wat Suwandararam,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Ayutthaya
+Wat Chaiwatthanaram,4.7,"place_of_worship, point_of_interest, establishment",Ayutthaya
+Wat Yai Chai Mongkhon,4.7,"tourist_attraction, place_of_worship, point_of_interest, establishment",Ayutthaya
+JEATH War Museum,3.7,"tourist_attraction, museum, point_of_interest, establishment",Kanchanaburi
+ElephantsWorld,4.3,"tourist_attraction, point_of_interest, establishment",Kanchanaburi
+Ban Kao National Museum,4.6,"museum, tourist_attraction, point_of_interest, establishment",Kanchanaburi
+Erawan National Park,4.5,"tourist_attraction, park, point_of_interest, establishment",Kanchanaburi
+Giant Raintree,4.4,"tourist_attraction, point_of_interest, establishment",Kanchanaburi
+Chuk Don Beach,4.1,"tourist_attraction, point_of_interest, establishment",Kanchanaburi
+Death Railway Museum,4.5,"museum, tourist_attraction, point_of_interest, establishment",Kanchanaburi
+Shinto Park,4.1,"tourist_attraction, point_of_interest, establishment",Kanchanaburi
+Wat Tham Phu Wa,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Kanchanaburi
+Wat Sala Loi,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Nakhon Ratchasima
+Wat Phayap,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Nakhon Ratchasima
+Bung Ta Lua Park,4.6,"park, point_of_interest, establishment",Nakhon Ratchasima
+Phimai Historical Park,4.6,"tourist_attraction, museum, park, point_of_interest, establishment",Nakhon Ratchasima
+Prasat Hin Phanom Wan,4.5,"tourist_attraction, point_of_interest, establishment",Nakhon Ratchasima
+Korat Fossil Museum,4.5,"museum, tourist_attraction, point_of_interest, establishment",Nakhon Ratchasima
+Immaculate Conception Cathedral,4.2,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",Dili
+Largo de Lecidere,4.5,"park, tourist_attraction, point_of_interest, establishment",Dili
+Statua Presidente Nicolau Lobato,4.1,"tourist_attraction, point_of_interest, establishment",Dili
+Tais Market,4.3,"tourist_attraction, point_of_interest, establishment",Dili
+Church of Saint Anthony of Motael,4.7,"tourist_attraction, church, place_of_worship, point_of_interest, establishment",Dili
+Dili Rock East,4,"tourist_attraction, point_of_interest, establishment",Dili
+Dolok Oan,4.4,"tourist_attraction, point_of_interest, establishment",Dili
+Beto Beach,3.3,"tourist_attraction, point_of_interest, establishment",Dili
+Waiusuu Springs,4.5,"tourist_attraction, point_of_interest, establishment",Baucau
+Uatabo Beach,4.1,"tourist_attraction, point_of_interest, establishment",Baucau
+Caibada Beach,5,"tourist_attraction, point_of_interest, establishment",Baucau
+Swiming pool Baucau,0,"tourist_attraction, point_of_interest, establishment",Baucau
+Bemvindo Municipio de Baucau,1,"tourist_attraction, point_of_interest, establishment",Baucau
+Newlale kota wailili,0,"tourist_attraction, point_of_interest, establishment",Baucau
+Baucau Old Market,3.8,"point_of_interest, establishment",Baucau
+Ramascora,0,"point_of_interest, establishment",Maliana
+Monumen Domingos G Pereira,0,"museum, point_of_interest, establishment",Maliana
+Marobo Hot Spring,3.8,"tourist_attraction, point_of_interest, establishment",Maliana
+Sacred Heart Cathedral,0,"church, place_of_worship, point_of_interest, establishment",Maliana
+Uma John Lajar,0,"point_of_interest, establishment",Maliana
+Niagara Mauhalek,4.4,"tourist_attraction, point_of_interest, establishment",Maliana
+Uma lisan,1,"place_of_worship, point_of_interest, establishment",Maliana
+Maliana Market,3.4,"point_of_interest, establishment",Maliana
+Catedral Diocese Maliana,5,"church, place_of_worship, point_of_interest, establishment",Maliana
+Suai Loro Beach,5,"tourist_attraction, point_of_interest, establishment",Suai
+Dutch Fortress,5,"point_of_interest, establishment",Suai
+Marobo Hot Spring,3.8,"tourist_attraction, point_of_interest, establishment",Suai
+Pasir Putih Atapupu Beach,4.4,"tourist_attraction, point_of_interest, establishment",Suai
+Hakmatek waterfall,4.8,"tourist_attraction, point_of_interest, establishment",Suai
+Rotunda Suai Berseni,0,"place_of_worship, point_of_interest, establishment",Suai
+KAPELA LABARAI,0,"church, place_of_worship, point_of_interest, establishment",Suai
+SELOI KRAIK,4.3,"tourist_attraction, point_of_interest, establishment",Suai
+Carakana,0,"tourist_attraction, point_of_interest, establishment",Lospalos
+Franciscan Sisters COnvent,0,"place_of_worship, point_of_interest, establishment",Lospalos
+Papapa,0,"point_of_interest, establishment",Lospalos
+Ouchailor,0,"point_of_interest, establishment",Lospalos
+Iraroko,0,"point_of_interest, establishment",Lospalos
+Masjid At Taqwa,4.2,"mosque, place_of_worship, point_of_interest, establishment",Lospalos
+Igreja Bethel Lospalos,0,"place_of_worship, point_of_interest, establishment",Lospalos
+CHAPEL OF LERELOHO,5,"church, place_of_worship, point_of_interest, establishment",Lospalos
+Hoa Lo Prison Relic,4.4,"tourist_attraction, museum, point_of_interest, establishment",Hanoi
+Thang Long Water Puppet Theatre,4.2,"tourist_attraction, point_of_interest, establishment",Hanoi
+Imperial Citadel of Thang Long,4.4,"tourist_attraction, point_of_interest, establishment",Hanoi
+Vietnam Museum of Ethnology,4.5,"tourist_attraction, museum, point_of_interest, establishment",Hanoi
+Bach Ma Temple,4.5,"place_of_worship, tourist_attraction, point_of_interest, establishment",Hanoi
+One Pillar Pagoda,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Hanoi
+Vietnam National Museum of History,4.3,"tourist_attraction, museum, point_of_interest, establishment",Hanoi
+Ngoc Son Temple,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Hanoi
+Quan Thanh Temple,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Hanoi
+Ceramic mosaic mural road,4.4,"tourist_attraction, point_of_interest, establishment",Hanoi
+Cu Chi Tunnel,4.5,"tourist_attraction, museum, point_of_interest, establishment",Ho Chi Minh City
+Ben Thanh Market,3.9,"tourist_attraction, point_of_interest, establishment",Ho Chi Minh City
+War Remnants Museum,4.5,"tourist_attraction, museum, point_of_interest, establishment",Ho Chi Minh City
+Ho Chi Minh Statue,4.6,"tourist_attraction, point_of_interest, establishment",Ho Chi Minh City
+Tao Dan Park,4.5,"park, tourist_attraction, point_of_interest, establishment",Ho Chi Minh City
+Thien Hau Pagoda,4.6,"place_of_worship, tourist_attraction, point_of_interest, establishment",Ho Chi Minh City
+Museum of Ho Chi Minh city,4.2,"museum, point_of_interest, establishment",Ho Chi Minh City
+Independence Palace,4.4,"museum, tourist_attraction, point_of_interest, establishment",Ho Chi Minh City
+Ho Chi Minh City Book Street,4.6,"tourist_attraction, book_store, point_of_interest, store, establishment",Ho Chi Minh City
+History Museum of Ho Chi Minh City,4.4,"museum, tourist_attraction, point_of_interest, establishment",Ho Chi Minh City
+Da Nang Museum of Cham Sculpture,4.1,"tourist_attraction, museum, general_contractor, point_of_interest, establishment",Da Nang
+Dragon Bridge,4.6,"tourist_attraction, point_of_interest, establishment",Da Nang
+Ba Na Hills,4.6,"tourist_attraction, travel_agency, point_of_interest, store, establishment",Da Nang
+The Marble Mountains,4.3,"tourist_attraction, point_of_interest, establishment",Da Nang
+3D Museum Art in paradise Da Nang,4.3,"tourist_attraction, museum, point_of_interest, establishment",Da Nang
+Dong Dinh Art Museum,4.3,"tourist_attraction, museum, point_of_interest, establishment",Da Nang
+Green Lake Danang,4.3,"tourist_attraction, point_of_interest, establishment",Da Nang
+Hai Phong Museum,4.1,"museum, tourist_attraction, point_of_interest, establishment",Haiphong
+Pho Chieu Pagoda,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Haiphong
+Phu Xa Temple,4.8,"place_of_worship, tourist_attraction, point_of_interest, establishment",Haiphong
+Fountain Square in City Center,4.6,"tourist_attraction, park, point_of_interest, establishment",Haiphong
+Co Chin Temple,4.7,"place_of_worship, tourist_attraction, point_of_interest, establishment",Haiphong
+Relic Park Plums,4.1,"tourist_attraction, museum, point_of_interest, establishment",Can Tho
+Quang Duc Pagoda,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Can Tho
+Binh Thuy ancient house,4.2,"tourist_attraction, point_of_interest, establishment",Can Tho
+Ho Chi Minh Monument,4.4,"point_of_interest, establishment",Can Tho
+Long Son Pagoda,4.3,"tourist_attraction, place_of_worship, point_of_interest, establishment",Nha Trang
+Dam Market,3.8,"tourist_attraction, point_of_interest, establishment",Nha Trang
+Bai Tranh Beach,4.1,"tourist_attraction, point_of_interest, establishment",Nha Trang
+Agarwood Tower,4.3,"tourist_attraction, park, point_of_interest, establishment",Nha Trang
+Ponagar Temple,4.4,"hindu_temple, tourist_attraction, place_of_worship, point_of_interest, establishment",Nha Trang
+Alexandre Yersin Museum,4.1,"museum, tourist_attraction, point_of_interest, establishment",Nha Trang
+Ba Ho Waterfalls Cliff Jumping,4.5,"tourist_attraction, point_of_interest, establishment",Nha Trang
+Suoi Do Pagoda,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Nha Trang
+Valley Of Love,4.3,"tourist_attraction, point_of_interest, establishment",Da Lat
+Bao Dai Summer Palace 3,4.1,"tourist_attraction, point_of_interest, establishment",Da Lat
+Lavender Dalat Tourist Area,4,"tourist_attraction, point_of_interest, establishment",Da Lat
+Cam Ly Waterfall,3.1,"tourist_attraction, point_of_interest, establishment",Da Lat
+Crazy House,4.3,"tourist_attraction, travel_agency, lodging, point_of_interest, establishment",Da Lat
+Datanla Waterfall,4.3,"tourist_attraction, point_of_interest, establishment",Da Lat
+Lam Vien Square,4.5,"tourist_attraction, park, point_of_interest, establishment",Da Lat
+Linh Son Pagoda,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Da Lat
+Linh Phuoc Pagoda,4.6,"place_of_worship, point_of_interest, establishment",Da Lat
+Jesus Christ Statue,4.6,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vung Tau
+Thich Ca Phat Dai Pagoda,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Vung Tau
+Worldwide Arms Museum,4.6,"museum, tourist_attraction, point_of_interest, establishment",Vung Tau
+Upside Down House,3.9,"cafe, store, food, point_of_interest, establishment",Vung Tau
+Long Khanh Pagoda,4.5,"tourist_attraction, place_of_worship, point_of_interest, establishment",Qui Nhon
+Binh Dinh Museum,4,"museum, tourist_attraction, point_of_interest, establishment",Qui Nhon
+Tran Hung Dao Statue,4.5,"tourist_attraction, point_of_interest, establishment",Qui Nhon
+Ngoc Hoa Monastic,4.4,"tourist_attraction, place_of_worship, point_of_interest, establishment",Qui Nhon
+Coral island,4.2,"tourist_attraction, point_of_interest, establishment",Qui Nhon
+Quy Nhon Square,4.5,"park, point_of_interest, establishment",Qui Nhon
