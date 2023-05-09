@@ -1,5 +1,7 @@
 import Image from "next/image";
 import { useState, useEffect } from "react";
+import Modal2 from "./modal2";
+import CardLink from "./cardlink"
 
 function CardImage(props){
   const [photoUrl, setPhotoUrl] = useState('')
@@ -29,30 +31,7 @@ function CardImage(props){
   )
 }
 
-function CardLink(props){
-  const [placeUrl, setPlaceUrl] = useState('')
 
-  useEffect(() => {
-    async function fetchLink(){
-      const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/link',
-      // const response = await fetch('http://localhost:5000/api/link',
-      {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ data: props.data.place_id })
-      });
-      const url = await response.json()
-      setPlaceUrl(url);
-    }
-    fetchLink();
-  }, [props]);
-
-  return(
-    <a href={placeUrl} target="_blank" rel="noopener noreferrer" className="text-blue-500">Click here to open in maps</a>
-  )
-}
 
 export default function Card(props){
   if (!props.data) return null
@@ -62,6 +41,7 @@ export default function Card(props){
       <div className="mx-5 flex flex-col items-center xl:items-start">
         <h1>{(props.data.name)}</h1>
         <CardLink data={(props.data)}/>
+        <Modal2 type = {(props.data.types)}/>
       </div>
     </div>
   )

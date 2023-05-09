@@ -17,9 +17,10 @@ function MyComponent() {
 
   const handleSubmit = async (input, params) => {
     setCity(input)
+    setLoaded(false);
     setLoading(true);
-    // const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/sus', {
-    const response = await fetch('http://localhost:5000/api/sus', {
+    const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/sus', {
+    // const response = await fetch('http://localhost:5000/api/sus', {
     
       method: 'POST',
       headers: {
