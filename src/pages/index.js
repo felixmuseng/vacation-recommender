@@ -6,6 +6,7 @@ import Card from './components/card1'
 import Card2 from './components/card2'
 import Card3 from './components/card3'
 import FeedbackForm from './components/feedbackform'
+import { addCity } from './api/supabase'
 
 function MyComponent() {
   const [responses, setResponses] = useState('');
@@ -34,6 +35,7 @@ function MyComponent() {
     setWeather1("https:"+data.weather.icon)
     setWeather2("https:"+data.tomorrow.icon)
     setResponses(data.result)
+    addCity(input)
     setLoading(false);
   }
   return (

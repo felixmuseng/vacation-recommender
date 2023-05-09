@@ -41,7 +41,7 @@ export default function Card(props){
       <div className="mx-5 flex flex-col items-center xl:items-start">
         <h1>{(props.data.name)}</h1>
         <CardLink data={(props.data)}/>
-        <Modal2 type = {(props.data.types)}/>
+        <Modal2 data = {(props.data)}/>
       </div>
     </div>
   )

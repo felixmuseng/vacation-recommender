@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import Image from "next/image";
 import CardLink from "./cardlink";
+import { addSpots } from "../api/supabase";
 
 function CardImage(props){
   const [photoUrl, setPhotoUrl] = useState('')
@@ -42,27 +43,31 @@ function Modal2(props) {
     }
   };
 
+  const openModal = ()=>{
+    addSpots(props.data.name)
+    setShowModal(true)
+  }
+
   useEffect(() => {
     async function getSpots(){
-      const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/recspots',
-      // const response = await fetch('http://localhost:5000/api/recspots',
+      // const response = await fetch('https://test-flask-vercel-ten.vercel.app/api/recspots',
+      const response = await fetch('http://localhost:5000/api/recspots',
       {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
         },
-        body: JSON.stringify({ type: props.type })
+        body: JSON.stringify({ type: props.data.types })
       });
       const data = await response.json()
       setSpots(data);
-      console.log("SUS")
     }
     getSpots();
   }, [props]);
 
   return (
     <>
-      <button className="hidden xl:flex bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" type="button" onClick={() => setShowModal(true)}>
+      <button className="hidden xl:flex bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" type="button" onClick={() => openModal()}>
         Spots Similar like this
       </button>
       {showModal ? (
